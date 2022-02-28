@@ -1,2 +1,2 @@
 # react-holygrail
-React Holy Grail - State of each column shared with the rest
+React Holy Grail - Multiple columns with interacting state
